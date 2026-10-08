@@ -1,0 +1,5 @@
+* text=auto
+
+*.png binary
+
+/README.md export-ignore
